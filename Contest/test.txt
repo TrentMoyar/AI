@@ -1,0 +1,32 @@
+1 hello world, Helen
+2 Listen silent
+3 Java in VA
+4 Happy Thanksgiving!
+5 xyz
+6 4
+6 0
+7 1302
+8 2
+9 How are you?
+10 programming
+11 hello
+12 Virginia
+13 Anna
+14 23
+15 24
+16 9-12-2020
+17 Anna Treehouse 31
+18 3 -1 0 44 -21
+19 Hello world!
+20 OX.XO.XOO
+21 Lisa Garret Bill Aiden Mary
+22 312
+23 3 4 5
+24 magic
+25 2 13 1
+26 AXXX
+26 AXBX
+27 10 3 5 6
+28 How are you?
+29 How are you?
+30 WooHoo Zoozoo  
